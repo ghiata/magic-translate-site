@@ -8,7 +8,7 @@ permalink: /privacy-policy.html
 
 **Last updated:** 22 October 2026
 **Applies to:** the Magic Translate Chrome extension (Manifest V3), version 1.0 and later
-**Developer:** Stefan Ghiata ("we", "us")
+**Developer:** the Magic Translate developer ("we", "us")
 
 Magic Translate translates text that you type into web page text fields. This
 policy explains exactly what the extension processes, where that processing
